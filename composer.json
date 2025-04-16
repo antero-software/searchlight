@@ -9,10 +9,10 @@
     "require": {
         "php": "^7.0|^8.0",
         "elasticsearch/elasticsearch": "^5.2",
-        "illuminate/bus": "^5.4",
-        "illuminate/database": "^5.4",
-        "illuminate/http": "^5.4",
-        "illuminate/queue": "^5.4",
+        "illuminate/bus": "^5.4|^6.0|^7.0|^8.0",
+        "illuminate/database": "^5.4|^6.0|^7.0|^8.0",
+        "illuminate/http": "^5.4|^6.0|^7.0|^8.0",
+        "illuminate/queue": "^5.4|^6.0|^7.0|^8.0",
         "illuminate/support": "^5.4|^6.0|^7.0|^8.0"
     },
     "require-dev": {
